@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define N_CLIENTES 50
+#define N_CLIENTES 8
 #define N_CADEIRAS 5
 
 sem_t sem_cadeiras;
